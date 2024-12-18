@@ -1,0 +1,2 @@
+//Bonjour nodejs
+"use strict";
