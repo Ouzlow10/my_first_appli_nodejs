@@ -6,7 +6,6 @@
   "main": "index.js", 
   "scripts": {
     "start": "node src/index.js",
-    "build": "babel src -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "https://github.com/Ouzlow10/my_first_appli_nodejs",
